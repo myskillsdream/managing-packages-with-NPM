@@ -1,4 +1,5 @@
 {
+	"description": "Freecodecamp Challenge App",
 	"author": "Ijabor Solomon Isioma",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
