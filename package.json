@@ -2,7 +2,11 @@
 	"description": "Freecodecamp Challenge App",
 	"author": "Ijabor Solomon Isioma",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": [ "freecodecamp", "challenge", "app" ],
+	"keywords": [
+		"freecodecamp",
+		"challenge",
+		"app"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -16,5 +20,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"license": "MIT"
 }
